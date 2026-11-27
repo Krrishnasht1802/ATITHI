@@ -1,5 +1,15 @@
 # ATITHI — Guest-First Restaurant Ordering & Dining Experience
 
+<p align="center">
+  <img src="assets/previews/atithi-preview.png" alt="ATITHI Project Preview" width="100%" />
+</p>
+
+<p align="center">
+  <strong>A better dining experience starts with the guest.</strong>
+</p>
+
+---
+
 ## Project Overview
 
 **ATITHI** is a guest-first digital restaurant ordering and dining platform designed to make the restaurant experience simpler, clearer, and more convenient.
@@ -12,7 +22,7 @@ ATITHI aims to connect restaurant guests, service staff, and kitchen operations 
 
 `Discover → Choose → Customize → Order → Pay → Track`
 
-**Figma Design:** [Explore ATITHI UI/UX Design](https://www.figma.com/design/ExJ4iCur5gL5o8fWuVqOIX/Atithi?node-id=0-1&t=Cy7qbnhQN4zsb8PA-1)
+**Figma Design:** [Explore ATITHI UI/UX Design & Prototype](https://www.figma.com/design/ExJ4iCur5gL5o8fWuVqOIX/Atithi?node-id=0-1&t=Cy7qbnhQN4zsb8PA-1)
 
 ---
 
@@ -55,6 +65,10 @@ ATITHI addresses these challenges through a centralized, guest-oriented digital 
 
 The primary guest journey is designed around six stages:
 
+<p align="center">
+  <img src="design/user-flow.png" alt="ATITHI Core User Journey" width="100%" />
+</p>
+
 1. **Discover:** Scan the restaurant's table QR code and access the digital menu.
 2. **Choose:** Browse food categories and explore available menu items.
 3. **Customize:** Select preferences and customize food items.
@@ -68,23 +82,51 @@ The primary guest journey is designed around six stages:
 
 The design direction is built around three core brand characteristics:
 
-- **Warm:** Reflecting hospitality, comfort, and human connection.
-- **Modern:** Creating a contemporary digital dining experience.
-- **Intuitive:** Making the interface easy to understand and navigate.
+| Brand Characteristic | Meaning |
+| :--- | :--- |
+| **Warm** | Reflecting hospitality, comfort, and human connection. |
+| **Modern** | Creating a contemporary digital dining experience. |
+| **Intuitive** | Making the interface easy to understand and navigate. |
 
 ### Design Principles
 
 - **Guest-Centric Design:** Prioritize the guest's needs throughout the ordering journey.
 - **Clarity Over Complexity:** Keep information, navigation, and interactions straightforward.
-- **Consistent Experience:** Maintain visual and interaction consistency.
+- **Consistent Experience:** Maintain visual and interaction consistency across the interface.
 - **Reduced Friction:** Minimize unnecessary steps between discovering a menu and completing an order.
 - **Accessible Interaction:** Design for guests with different levels of digital familiarity.
 
 ---
 
-## Interface Preview
+## Interface Showcase
 
-*Interface screenshots and design previews will be added as the project develops.*
+*The following sections showcase the key interfaces designed for the ATITHI platform.*
+
+### 1. Home & Menu Discovery
+
+<p align="center">
+  <img src="assets/screenshots/home.png" alt="ATITHI Home Screen" width="280" />
+  <img src="assets/screenshots/menu.png" alt="ATITHI Digital Menu" width="280" />
+</p>
+
+### 2. Food Details & Customization
+
+<p align="center">
+  <img src="assets/screenshots/product-details.png" alt="ATITHI Food Details and Customization" width="280" />
+</p>
+
+### 3. Cart & Checkout
+
+<p align="center">
+  <img src="assets/screenshots/cart.png" alt="ATITHI Shopping Cart" width="280" />
+  <img src="assets/screenshots/checkout.png" alt="ATITHI Checkout Interface" width="280" />
+</p>
+
+### 4. Order Confirmation & Tracking
+
+<p align="center">
+  <img src="assets/screenshots/order-tracking.png" alt="ATITHI Order Tracking Interface" width="280" />
+</p>
 
 ---
 
@@ -104,6 +146,7 @@ The design direction is built around three core brand characteristics:
 | **Project Type** | UI/UX Design & Prototyping |
 | **Primary Focus** | Guest-First Dining Experience |
 | **Design Tool** | Figma |
+| **Documentation** | GitHub |
 
 ---
 
@@ -111,8 +154,15 @@ The design direction is built around three core brand characteristics:
 
 Explore the design and interactive prototype:
 
-**[View ATITHI on Figma](https://www.figma.com/design/ExJ4iCur5gL5o8fWuVqOIX/Atithi?node-id=0-1&t=Cy7qbnhQN4zsb8PA-1)**
+<p align="center">
+  <a href="https://www.figma.com/design/ExJ4iCur5gL5o8fWuVqOIX/Atithi?node-id=0-1&t=Cy7qbnhQN4zsb8PA-1">
+    <strong>View ATITHI on Figma →</strong>
+  </a>
+</p>
 
 ---
 
-*ATITHI — A better dining experience starts with the guest.*
+<p align="center">
+  <strong>ATITHI</strong><br/>
+  Your place at the table.
+</p>
