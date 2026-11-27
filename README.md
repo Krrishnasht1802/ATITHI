@@ -1,6 +1,3 @@
-# ATITHI
-Guest-first restaurant ordering and digital dining experience — UI/UX design and interactive prototype.
-
 # ATITHI — Guest-First Restaurant Ordering & Dining Experience
 
 ## Project Overview
